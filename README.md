@@ -1,2 +1,2 @@
-# Example-Bookshelf-API-
+# Example-Bookshelf-API
 Javascript
